@@ -9,6 +9,6 @@
 
 ### How to run
 
-#### 1. clone the project in any favorable directory on your local machine using the command : git clone <github url you copied>
-#### 2. 
+#### 1. clone the project in any favorable directory on your local machine using the command : git clone 
+#### 2. run the cd command into the cloned directory and run "npm install" to install dependencies
 
